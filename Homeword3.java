@@ -1,8 +1,7 @@
 package com.xxx;
 
 public class test {
-//xxx
-
+//xxxxxxxx
 	public static void main(String[] args) {
 		String[] c = { "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune" };
 		int sum = 0;
