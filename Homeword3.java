@@ -1,7 +1,11 @@
 package com.xxx;
 
 public class test {
+<<<<<<< HEAD
 //xxxzzzzzzzzzzzzzssadsa
+=======
+//xxxzzzzzzzzzzzzzssadsaasdasdsdfsdfsf
+>>>>>>> dog
 
 	public static void main(String[] args) {
 		String[] c = { "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune" };
